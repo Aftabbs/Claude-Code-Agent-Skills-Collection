@@ -5,7 +5,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey) 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-brightgreen)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-brightgreen) 
 
 A curated collection of production-ready Agent Skills for Claude Code that extend AI capabilities with specialized domain expertise. Built for enterprise AI systems, system operations, and production reliability.
 
